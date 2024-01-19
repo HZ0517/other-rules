@@ -1,1 +1,1 @@
-.jable.com
+DOMAIN-SUFFIX,jable.com
